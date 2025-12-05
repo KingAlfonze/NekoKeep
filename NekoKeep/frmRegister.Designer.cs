@@ -40,9 +40,10 @@
             // 
             txtDisplayName.BorderStyle = BorderStyle.None;
             txtDisplayName.Font = new Font("Segoe UI", 15F);
-            txtDisplayName.Location = new Point(600, 381);
+            txtDisplayName.Location = new Point(600, 378);
             txtDisplayName.Margin = new Padding(4, 3, 4, 3);
             txtDisplayName.Name = "txtDisplayName";
+            txtDisplayName.PlaceholderText = "Display Name";
             txtDisplayName.Size = new Size(400, 27);
             txtDisplayName.TabIndex = 0;
             // 
@@ -50,9 +51,10 @@
             // 
             txtEmail.BorderStyle = BorderStyle.None;
             txtEmail.Font = new Font("Segoe UI", 15F);
-            txtEmail.Location = new Point(600, 466);
+            txtEmail.Location = new Point(600, 463);
             txtEmail.Margin = new Padding(4, 3, 4, 3);
             txtEmail.Name = "txtEmail";
+            txtEmail.PlaceholderText = "Email";
             txtEmail.Size = new Size(400, 27);
             txtEmail.TabIndex = 1;
             // 
@@ -60,9 +62,10 @@
             // 
             txtPassword.BorderStyle = BorderStyle.None;
             txtPassword.Font = new Font("Segoe UI", 15F);
-            txtPassword.Location = new Point(600, 550);
+            txtPassword.Location = new Point(600, 548);
             txtPassword.Margin = new Padding(4, 3, 4, 3);
             txtPassword.Name = "txtPassword";
+            txtPassword.PlaceholderText = "Password";
             txtPassword.Size = new Size(400, 27);
             txtPassword.TabIndex = 2;
             // 

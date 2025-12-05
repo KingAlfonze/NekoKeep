@@ -63,6 +63,46 @@ namespace NekoKeep.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Cat_Atelier_Form {
+            get {
+                object obj = ResourceManager.GetObject("Cat Atelier Form", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Enter_your_MPIN_Text {
+            get {
+                object obj = ResourceManager.GetObject("Enter your MPIN Text", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gif_box {
+            get {
+                object obj = ResourceManager.GetObject("gif box", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap LOADINGGG {
+            get {
+                object obj = ResourceManager.GetObject("LOADINGGG", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Login_Form {
             get {
                 object obj = ResourceManager.GetObject("Login Form", resourceCulture);
@@ -96,6 +136,56 @@ namespace NekoKeep.Properties {
         internal static System.Drawing.Bitmap MPIN_Form {
             get {
                 object obj = ResourceManager.GetObject("MPIN Form", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NekoKeep_Bluey_Cat1 {
+            get {
+                object obj = ResourceManager.GetObject("NekoKeep-Bluey Cat1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NekoKeep_Gray_Cat1 {
+            get {
+                object obj = ResourceManager.GetObject("NekoKeep-Gray Cat1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NekoKeep_NewLoading_stretched_ {
+            get {
+                object obj = ResourceManager.GetObject("NekoKeep-NewLoading(stretched)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NekoKeep_Night_Cat1 {
+            get {
+                object obj = ResourceManager.GetObject("NekoKeep-Night Cat1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap NekoKeep_Orange_Cat1 {
+            get {
+                object obj = ResourceManager.GetObject("NekoKeep-Orange Cat1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

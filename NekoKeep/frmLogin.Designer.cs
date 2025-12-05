@@ -57,8 +57,9 @@
             // 
             txtEmail.BorderStyle = BorderStyle.None;
             txtEmail.Font = new Font("Segoe UI", 15F);
-            txtEmail.Location = new Point(597, 637);
+            txtEmail.Location = new Point(597, 633);
             txtEmail.Name = "txtEmail";
+            txtEmail.PlaceholderText = "Email";
             txtEmail.Size = new Size(400, 27);
             txtEmail.TabIndex = 2;
             // 
@@ -66,8 +67,9 @@
             // 
             txtPassword.BorderStyle = BorderStyle.None;
             txtPassword.Font = new Font("Segoe UI", 15F);
-            txtPassword.Location = new Point(597, 707);
+            txtPassword.Location = new Point(597, 703);
             txtPassword.Name = "txtPassword";
+            txtPassword.PlaceholderText = "Password";
             txtPassword.Size = new Size(400, 27);
             txtPassword.TabIndex = 3;
             // 
@@ -84,6 +86,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "frmLogin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "NekoKeep - Login";
             ResumeLayout(false);
             PerformLayout();
